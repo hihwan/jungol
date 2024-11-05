@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{285744CF-07B3-4A62-9C12-D68CCA76E577}|Jungol_gongbu\\Jungol_gongbu.vcxproj|D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\Jungol_gongbu\\Jungol_gongbu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{285744CF-07B3-4A62-9C12-D68CCA76E577}|Jungol_gongbu\\Jungol_gongbu.vcxproj|solutionrelative:Jungol_gongbu\\Jungol_gongbu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jungol_gongbu.cpp",
+              "DocumentMoniker": "D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\Jungol_gongbu\\Jungol_gongbu.cpp",
+              "RelativeDocumentMoniker": "Jungol_gongbu\\Jungol_gongbu.cpp",
+              "ToolTip": "D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\Jungol_gongbu\\Jungol_gongbu.cpp",
+              "RelativeToolTip": "Jungol_gongbu\\Jungol_gongbu.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T11:10:29.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
