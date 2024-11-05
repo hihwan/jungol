@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{285744CF-07B3-4A62-9C12-D68CCA76E577}|Jungol_gongbu\\Jungol_gongbu.vcxproj|D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\Jungol_gongbu\\Jungol_LC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{285744CF-07B3-4A62-9C12-D68CCA76E577}|Jungol_gongbu\\Jungol_gongbu.vcxproj|solutionrelative:Jungol_gongbu\\Jungol_LC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{285744CF-07B3-4A62-9C12-D68CCA76E577}|Jungol_gongbu\\Jungol_gongbu.vcxproj|D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\Jungol_gongbu\\Jungol_gongbu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{285744CF-07B3-4A62-9C12-D68CCA76E577}|Jungol_gongbu\\Jungol_gongbu.vcxproj|solutionrelative:Jungol_gongbu\\Jungol_gongbu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Jungol_LC.cpp",
+              "DocumentMoniker": "D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\Jungol_gongbu\\Jungol_LC.cpp",
+              "RelativeDocumentMoniker": "Jungol_gongbu\\Jungol_LC.cpp",
+              "ToolTip": "D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\Jungol_gongbu\\Jungol_LC.cpp",
+              "RelativeToolTip": "Jungol_gongbu\\Jungol_LC.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T12:03:03.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Jungol_gongbu.cpp",
               "DocumentMoniker": "D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\Jungol_gongbu\\Jungol_gongbu.cpp",
               "RelativeDocumentMoniker": "Jungol_gongbu\\Jungol_gongbu.cpp",
               "ToolTip": "D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\Jungol_gongbu\\Jungol_gongbu.cpp",
               "RelativeToolTip": "Jungol_gongbu\\Jungol_gongbu.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-05T11:10:29.665Z",
               "EditorCaption": ""
