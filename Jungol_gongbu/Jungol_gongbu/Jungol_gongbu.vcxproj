@@ -24,7 +24,7 @@
     <ProjectGuid>{285744cf-07b3-4a62-9c12-d68cca76e577}</ProjectGuid>
     <RootNamespace>Jungolgongbu</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Jungol_ch6</ProjectName>
+    <ProjectName>Jungol_AG1</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Jungol_ch6.cpp" />
+    <ClCompile Include="Jungol_AG1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
