@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{285744CF-07B3-4A62-9C12-D68CCA76E577}|Jungol_gongbu\\Jungol_gongbu.vcxproj|D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\Jungol_gongbu\\Jungol_AG1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{285744CF-07B3-4A62-9C12-D68CCA76E577}|Jungol_gongbu\\Jungol_gongbu.vcxproj|solutionrelative:Jungol_gongbu\\Jungol_AG1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E9B0CD26-C025-4177-81CA-4C0963A25444}|BAEKJOON_gongbu\\BAEKJOON_gongbu.vcxproj|D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\BAEKJOON_gongbu\\BAEKJOON_gongbu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9B0CD26-C025-4177-81CA-4C0963A25444}|BAEKJOON_gongbu\\BAEKJOON_gongbu.vcxproj|solutionrelative:BAEKJOON_gongbu\\BAEKJOON_gongbu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8DD6A776-B5C1-4776-B8D8-188E2584BA31}|Jungol_LC2\\Jungol_LC2.vcxproj|D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\Jungol_LC2\\Jungol_LC2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -26,21 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Jungol_LC3.cpp",
-              "DocumentMoniker": "D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\Jungol_LC3\\Jungol_LC3.cpp",
-              "RelativeDocumentMoniker": "Jungol_LC3\\Jungol_LC3.cpp",
-              "ToolTip": "D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\Jungol_LC3\\Jungol_LC3.cpp",
-              "RelativeToolTip": "Jungol_LC3\\Jungol_LC3.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-07T08:10:01.51Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -49,22 +36,35 @@
               "RelativeDocumentMoniker": "Jungol_LC2\\Jungol_LC2.cpp",
               "ToolTip": "D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\Jungol_LC2\\Jungol_LC2.cpp",
               "RelativeToolTip": "Jungol_LC2\\Jungol_LC2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-07T08:04:06.741Z",
+              "WhenOpened": "2024-11-19T10:34:27.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Jungol_AG1.cpp",
-              "DocumentMoniker": "D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\Jungol_gongbu\\Jungol_AG1.cpp",
-              "RelativeDocumentMoniker": "Jungol_gongbu\\Jungol_AG1.cpp",
-              "ToolTip": "D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\Jungol_gongbu\\Jungol_AG1.cpp",
-              "RelativeToolTip": "Jungol_gongbu\\Jungol_AG1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
+              "Title": "BAEKJOON_gongbu.cpp",
+              "DocumentMoniker": "D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\BAEKJOON_gongbu\\BAEKJOON_gongbu.cpp",
+              "RelativeDocumentMoniker": "BAEKJOON_gongbu\\BAEKJOON_gongbu.cpp",
+              "ToolTip": "D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\BAEKJOON_gongbu\\BAEKJOON_gongbu.cpp*",
+              "RelativeToolTip": "BAEKJOON_gongbu\\BAEKJOON_gongbu.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-07T07:55:36.313Z",
+              "WhenOpened": "2024-11-19T10:33:54.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jungol_LC3.cpp",
+              "DocumentMoniker": "D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\Jungol_LC3\\Jungol_LC3.cpp",
+              "RelativeDocumentMoniker": "Jungol_LC3\\Jungol_LC3.cpp",
+              "ToolTip": "D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\Jungol_LC3\\Jungol_LC3.cpp",
+              "RelativeToolTip": "Jungol_LC3\\Jungol_LC3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T08:34:58.193Z",
               "EditorCaption": ""
             },
             {
@@ -75,10 +75,9 @@
               "RelativeDocumentMoniker": "Jungol_LoopControl\\H1.cpp",
               "ToolTip": "D:\\A_Jackupmul\\A_algorizom\\jungol\\Jungol_gongbu\\Jungol_LoopControl\\H1.cpp",
               "RelativeToolTip": "Jungol_LoopControl\\H1.cpp",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-07T07:19:32.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T08:34:54.325Z"
             }
           ]
         }
