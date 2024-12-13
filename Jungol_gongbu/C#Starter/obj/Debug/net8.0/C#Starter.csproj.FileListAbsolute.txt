@@ -1,0 +1,15 @@
+D:\A_Jackupmul\A_algorizom\jungol\Jungol_gongbu\C#Starter\bin\Debug\net8.0\C#Starter.exe
+D:\A_Jackupmul\A_algorizom\jungol\Jungol_gongbu\C#Starter\bin\Debug\net8.0\C#Starter.deps.json
+D:\A_Jackupmul\A_algorizom\jungol\Jungol_gongbu\C#Starter\bin\Debug\net8.0\C#Starter.runtimeconfig.json
+D:\A_Jackupmul\A_algorizom\jungol\Jungol_gongbu\C#Starter\bin\Debug\net8.0\C#Starter.dll
+D:\A_Jackupmul\A_algorizom\jungol\Jungol_gongbu\C#Starter\bin\Debug\net8.0\C#Starter.pdb
+D:\A_Jackupmul\A_algorizom\jungol\Jungol_gongbu\C#Starter\obj\Debug\net8.0\C#Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\A_Jackupmul\A_algorizom\jungol\Jungol_gongbu\C#Starter\obj\Debug\net8.0\C#Starter.AssemblyInfoInputs.cache
+D:\A_Jackupmul\A_algorizom\jungol\Jungol_gongbu\C#Starter\obj\Debug\net8.0\C#Starter.AssemblyInfo.cs
+D:\A_Jackupmul\A_algorizom\jungol\Jungol_gongbu\C#Starter\obj\Debug\net8.0\C#Starter.csproj.CoreCompileInputs.cache
+D:\A_Jackupmul\A_algorizom\jungol\Jungol_gongbu\C#Starter\obj\Debug\net8.0\C#Starter.sourcelink.json
+D:\A_Jackupmul\A_algorizom\jungol\Jungol_gongbu\C#Starter\obj\Debug\net8.0\C#Starter.dll
+D:\A_Jackupmul\A_algorizom\jungol\Jungol_gongbu\C#Starter\obj\Debug\net8.0\refint\C#Starter.dll
+D:\A_Jackupmul\A_algorizom\jungol\Jungol_gongbu\C#Starter\obj\Debug\net8.0\C#Starter.pdb
+D:\A_Jackupmul\A_algorizom\jungol\Jungol_gongbu\C#Starter\obj\Debug\net8.0\C#Starter.genruntimeconfig.cache
+D:\A_Jackupmul\A_algorizom\jungol\Jungol_gongbu\C#Starter\obj\Debug\net8.0\ref\C#Starter.dll

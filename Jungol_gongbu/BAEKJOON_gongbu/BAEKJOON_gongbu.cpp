@@ -8,7 +8,7 @@ int prime(int num) {
     {
         if (num % i == 0) return 0; // num i로 나눠지면 0
     }  
-    return 1; // 하나라도 1값이 있으면 1리턴
+    return 1; // 어떤 수로도 나누어 떨어지지 않았으면 1리턴
 }
 
 
